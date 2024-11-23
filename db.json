@@ -1,0 +1,690 @@
+{
+  "menue": {
+    "menu1": "خانه",
+    "menu2": "لوازم جانبی موبایل وکامپیوتر",
+    "menu3": "کابل-مبدل",
+    "menu4": "لوازم تولید محتوا",
+    "menu5": "لوازم شبکه",
+    "menu6": "کنسول بازی",
+    "menu7": "لوازم خانگی",
+    "menu8": "برندها"
+  },
+  "submenue": {
+    "submenu1": [
+      {
+        "id": 1,
+        "name": "هولدرونگهدارند"
+      },
+      {
+        "id": 2,
+        "name": "تجهیزات ذخیره سازی"
+      },
+      {
+        "id": 3,
+        "name": "اسپیکر"
+      },
+      {
+        "id": 4,
+        "name": "موس وکیبرد"
+      },
+      {
+        "id": 5,
+        "name": "هندزفری وهدست"
+      },
+      {
+        "id": 6,
+        "name": "پاوربانک"
+      },
+      {
+        "id": 7,
+        "name": "کابل شارژ"
+      },
+      {
+        "id": 8,
+        "name": "اداپتور"
+      },
+      {
+        "id": 9,
+        "name": "دسته بازی"
+      },
+      {
+        "id": 10,
+        "name": "انواع تبدیل برق"
+      },
+      {
+        "id": 11,
+        "name": "کابل و دانگل"
+      },
+      {
+        "id": 12,
+        "name": "انواع هاب"
+      },
+      {
+        "id": 13,
+        "name": "فن خنک کنند"
+      },
+      {
+        "id": 14,
+        "name": "قاب وگلس"
+      }
+    ],
+    "submenu2": [
+      {
+        "id": 1,
+        "name": "کابل hdmi"
+      },
+      {
+        "id": 2,
+        "name": "کابل پرینتر"
+      },
+      {
+        "id": 3,
+        "name": "کابل هارد"
+      },
+      {
+        "id": 4,
+        "name": "انواع رابط تبدیل"
+      },
+      {
+        "id": 5,
+        "name": "کابل aux"
+      },
+      {
+        "id": 6,
+        "name": "کابل 2به 1 صدا"
+      },
+      {
+        "id": 7,
+        "name": "کابل اپتیکال"
+      },
+      {
+        "id": 8,
+        "name": "کابلوفیش"
+      }
+    ],
+    "submenu3": [
+      {
+        "id": 1,
+        "name": "میکروفن"
+      },
+      {
+        "id": 2,
+        "name": "رینگ لایت"
+      }
+    ],
+    "submenu4": [
+      {
+        "id": 1,
+        "name": "مودم"
+      },
+      {
+        "id": 2,
+        "name": "هاب شبکه"
+      },
+      {
+        "id": 3,
+        "name": "مودم همزاه"
+      },
+      {
+        "id": 4,
+        "name": "لوازم جانبی"
+      }
+    ],
+    "submenu5": [
+      {
+        "id": 1,
+        "name": "هندزفری وهدست"
+      },
+      {
+        "id": 2,
+        "name": "دسته بازی"
+      },
+      {
+        "id": 3,
+        "name": "موس وکیبرد"
+      },
+      {
+        "id": 4,
+        "name": "کیف"
+      },
+      {
+        "id": 5,
+        "name": "کنسول"
+      },
+      {
+        "id": 6,
+        "name": "شارژر"
+      }
+    ],
+    "submenu6": [
+      {
+        "id": 1,
+        "name": "انواع گجت"
+      },
+      {
+        "id": 2,
+        "name": "باتری شارژر"
+      },
+      {
+        "id": 3,
+        "name": "اندرویدباکس"
+      },
+      {
+        "id": 4,
+        "name": "انتن"
+      },
+      {
+        "id": 5,
+        "name": "مچبند"
+      },
+      {
+        "id": 6,
+        "name": "محصولات کمبو"
+      },
+      {
+        "id": 7,
+        "name": "رابط برق"
+      },
+      {
+        "id": 8,
+        "name": "اف ام پلیر"
+      }
+    ],
+    "submenu7": {
+      "menubox1": [
+        {
+          "id": 1,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 2,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 3,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 4,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 5,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 6,
+          "name": "hylo",
+          "name2": "هایلو"
+        }
+      ],
+      "menubox2": [
+        {
+          "id": 1,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 2,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 3,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 4,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 5,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 6,
+          "name": "hylo",
+          "name2": "هایلو"
+        }
+      ],
+      "menubox3": [
+        {
+          "id": 1,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 2,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 3,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 4,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 5,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 6,
+          "name": "hylo",
+          "name2": "هایلو"
+        }
+      ],
+      "menubox4": [
+        {
+          "id": 1,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 2,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 3,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 4,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 5,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 6,
+          "name": "hylo",
+          "name2": "هایلو"
+        }
+      ],
+      "menubox5": [
+        {
+          "id": 1,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 2,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 3,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 4,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 5,
+          "name": "hylo",
+          "name2": "هایلو"
+        },
+        {
+          "id": 6,
+          "name": "hylo",
+          "name2": "هایلو"
+        }
+      ]
+    }
+  },
+  "slider": [
+    {
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-4-min.png",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "image": "https://www.dastresi.com/upload/filemanager/2023/12/24/banner-dastresi-1%20(1).png"
+    },
+    {
+      "id": "3",
+      "image": "https://www.dastresi.com/upload/filemanager/2024/07/06/Artboard-5Artboard-6.png"
+    }
+  ],
+  "prodoct1": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/17/BOOKHOOR-11.jpg",
+      "title": "دستگاه بخور سرد مدل W5000",
+      "price": "197,000 ",
+      "discount": "100,000 تومان تخفیف",
+      "cont": "297,000"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/01/ANKER1259-11.jpg",
+      "title": "دستگاه بخور سرد مدل W5000",
+      "price": "197,000 ",
+      "discount": "100,000 تومان تخفیف",
+      "cont": "297,000"
+    }
+  ],
+  "prodoct2": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/07/31/WIRLESS-CHARG-11.jpg",
+      "title": "دستگاه بخور سرد مدل W5000",
+      "price": "197,000 ",
+      "discount": "100,000 تومان تخفیف",
+      "cont": "297,000"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/07/29/mcdodo-0230-11.jpg",
+      "title": "دستگاه بخور سرد مدل W5000",
+      "price": "197,000 ",
+      "discount": "100,000 تومان تخفیف",
+      "cont": "297,000"
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/02/25/P6BPJBK-1.jpg",
+      "title": "دستگاه بخور سرد مدل W5000",
+      "price": "197,000 ",
+      "discount": "100,000 تومان تخفیف",
+      "cont": "297,000"
+    }
+  ],
+  "post": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/battery.png"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/gaming.png"
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/cable.png"
+    },
+    {
+      "id": "4",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/adaptor.png"
+    },
+    {
+      "id": "5",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/powerbank.png"
+    },
+    {
+      "id": "6",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/handsfree.png"
+    },
+    {
+      "id": "7",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/Holder%20Negahdarande.png"
+    },
+    {
+      "id": "8",
+      "img": "https://www.dastresi.com/upload/filemanager/2023/04/20/mobadel%20o%20rabet.png"
+    }
+  ],
+  "card1": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/23/PPBCHA31-1156.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K4-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/26/BY-K3-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "4",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/10/RADIO-22.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "5",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/20/PD-MWKTC-BK-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "6",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/19/BSW-0011-33.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "7",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/18/Porodo-PBFCH030-22.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "8",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/05/15/7220EUFY-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "9",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/18/B8ZZJ0-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "10",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/17/plawu-007-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "11",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/09/17/BOOKHOOR-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    }
+  ],
+  "media": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/images/icons/icon2.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "body": " برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/images/icons/icon1.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "body": " برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/images/icons/icon3.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "body": " برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+    },
+    {
+      "id": "4",
+      "img": "https://www.dastresi.com/images/icons/icon4.png",
+      "title": "مشاوره تخصصی برای خرید محصول",
+      "body": " برای خرید هر محصول با تیم دسترسی در ارتباط باشید تا بهترین انتخاب رو انجام دهید."
+    }
+  ],
+  "card2": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/25/PCCSR012-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/25/PCCSR016-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/24/GreenLion-KIT-.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "4",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/24/GREEN-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "5",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/19/BSW-0011-33.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "6",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/17/CARCH-GR65W-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "7",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/05/29/LPMFGRWH1-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "8",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/30/ANKER3958-22.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "9",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/29/ANKER8339-1.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "10",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/29/8363ANKER-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    },
+    {
+      "id": "11",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/06/25/GNMPB60KBK-11.jpg",
+      "title": "ظرف آب حیوانات خانگی انکر Anker eu...",
+      "pric": "1,290,000"
+    }
+  ],
+  "post2": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/17/logo.jpg"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/24/logo-1.jpg  "
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/22/inoben.jpg"
+    },
+    {
+      "id": "4",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/24/Untitled-159.jpg"
+    },
+    {
+      "id": "5",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/02/26/H64c19886758b40378c31d5f46c5ae984A.jpg"
+    },
+    {
+      "id": "6",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/03/logo.jpg"
+    },
+    {
+      "id": "7",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/03/07/logp.jpg"
+    },
+    {
+      "id": "8",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/04/17/diehard%20logo.jpg"
+    },
+    {
+      "id": "9",
+      "img": "https://www.dastresi.com/upload/filemanager/2022/04/12/logo.jpg"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/15/accessories-mobile-store-dastresiArtboard%201.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "2",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/14/handsfree-and-headset-dastresiArtboard%201.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "3",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/11/03/ssd-external-dastresi-Artboard%201%20copy%203.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "4",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/31/round-screen-smart-watch-dastresiArtboard%201%20copy.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "5",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/25/best-powerology-power-bank-dastresiArtboard%201%20copy%202.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "6",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/23/fake-or-original-iphone-charger-dastresi-Artboard%201.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "7",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/20/eye-massager-dastresi-Artboard%201%20copy%203.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    },
+    {
+      "id": "8",
+      "img": "https://www.dastresi.com/upload/filemanager/2024/10/17/How-does-a-wireless-charger-work-dastresi-Artboard%201.jpg",
+      "title": "شارژر وایرلس اپل چگونه کار میکند؟"
+    }
+  ]
+}
